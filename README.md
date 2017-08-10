@@ -2,6 +2,7 @@
 This is an heuristic solution code for an assignment problem for trains and trips.
 Since this is a heuristic solution this does not guarantee optimality.
 for any issue please do not hesitate to contact with me at mycakmakk@gmail.com or yusuf.cakmak@ug.bilkent.edu.tr
+If you need this in excel VBA, mail me.
 
 Why does this heuristic even exist?
 Original project is done in excel for Bilkent University IE 469 Course Term Project.
